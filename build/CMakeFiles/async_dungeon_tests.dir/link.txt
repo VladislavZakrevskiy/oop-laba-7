@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Werror -pthread -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/async_dungeon_tests.dir/tests/test_async_dungeon.cpp.o -o async_dungeon_tests  libasync_dungeon_lib.a /opt/homebrew/lib/libgtest.a /opt/homebrew/lib/libgtest_main.a -lpthread /opt/homebrew/lib/libgtest.a

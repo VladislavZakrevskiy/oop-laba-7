@@ -1,0 +1,5 @@
+if(EXISTS "/Users/vladzakrevski/oop/laba-7/build/async_dungeon_tests[1]_tests.cmake")
+  include("/Users/vladzakrevski/oop/laba-7/build/async_dungeon_tests[1]_tests.cmake")
+else()
+  add_test(async_dungeon_tests_NOT_BUILT async_dungeon_tests_NOT_BUILT)
+endif()

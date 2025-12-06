@@ -1,0 +1,8 @@
+/Users/vladzakrevski/oop/laba-7/build/CMakeFiles/async_dungeon_lib.dir
+/Users/vladzakrevski/oop/laba-7/build/CMakeFiles/async_dungeon_demo.dir
+/Users/vladzakrevski/oop/laba-7/build/CMakeFiles/renderer_demo.dir
+/Users/vladzakrevski/oop/laba-7/build/CMakeFiles/async_dungeon_tests.dir
+/Users/vladzakrevski/oop/laba-7/build/CMakeFiles/run_tests.dir
+/Users/vladzakrevski/oop/laba-7/build/CMakeFiles/test.dir
+/Users/vladzakrevski/oop/laba-7/build/CMakeFiles/edit_cache.dir
+/Users/vladzakrevski/oop/laba-7/build/CMakeFiles/rebuild_cache.dir

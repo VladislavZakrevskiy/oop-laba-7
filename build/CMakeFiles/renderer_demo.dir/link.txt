@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Werror -pthread -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/renderer_demo.dir/src/renderer_demo.cpp.o -o renderer_demo  libasync_dungeon_lib.a -lpthread
