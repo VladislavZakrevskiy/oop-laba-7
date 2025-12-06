@@ -3,7 +3,6 @@
 #include <algorithm>
 #include <map>
 
-// ANSI цветовые коды
 #define RESET   "\033[0m"
 #define RED     "\033[31m"
 #define GREEN   "\033[32m"
@@ -49,7 +48,6 @@ void MapRenderer::renderMap(const std::vector<std::shared_ptr<NPC>>& npcs, std::
                 std::string color = getNPCColor(cell[0]->getType());
                 os << color << symbol << RESET;
             } else {
-                // Несколько NPC в одной клетке
                 os << BOLD << WHITE << "*" << RESET;
             }
         }
